@@ -6,7 +6,7 @@
 package codigo;
 /**
  *
- * @author ING.DARWIN GARCIA
+ * @author ING.Kelvin R.Torres Almonte
  */
 import java.io.BufferedReader;
 import java.io.File;
